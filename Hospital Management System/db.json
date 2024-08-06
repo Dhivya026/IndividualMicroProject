@@ -1,0 +1,28 @@
+{
+  "docters": [
+    {
+      "docId": "450",
+      "docName": "Dhivya Saravanan",
+      "docRole": "Cardiologist",
+      "docSalary": "50000"
+    },
+    {
+      "id": "350",
+      "docName": "Bhuvaneshwari",
+      "docRole": "Neurologist",
+      "docSalary": "80000"
+    },
+    {
+      "id": "287",
+      "docName": "Saravanan",
+      "docRole": "Pediatrician",
+      "docSalary": "100000"
+    },
+    {
+      "id": "043",
+      "docName": "Priya Narayanan",
+      "docRole": "Anthropologist",
+      "docSalary": "200000"
+    }
+  ]
+}

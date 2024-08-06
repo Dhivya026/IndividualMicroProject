@@ -1,0 +1,21 @@
+.navbar {
+    background: #579BB1;
+    color: #fff;
+    text-align: center;
+}
+
+#box{
+background-color: #579BB1;
+padding: 40px;
+color: #fff;
+border-radius: 20px;
+width: 700px;
+padding-left: 90px;
+}
+
+h2{
+    text-align: center;
+}
+input{
+    width: 500px;
+}
